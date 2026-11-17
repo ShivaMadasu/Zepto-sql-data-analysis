@@ -159,7 +159,7 @@ MIT: feel free to fork, learn from it and use it in your portfolio.
 
 **Madasu Shiva**: MBA (Marketing) graduate focused on Business, Marketing and Data Analyst roles. Skills: SQL Server, Excel, Power BI.
 
-- 💼 LinkedIn: *(add your profile link)*
-- 📧 Email: *(add your email)*
+- 💼 LinkedIn: https://www.linkedin.com/in/shiva-madasu-8a6625350/
+- 📧 Email: shivamadasu593@gmail.com
 
 ⭐ If you found this project helpful, please star the repo!
